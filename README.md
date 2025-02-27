@@ -88,5 +88,3 @@ console.log(greet("Alice"));
 - [JavaScript.info](https://javascript.info/)
 - [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/)
 
-## Happy Coding! 🚀
-
